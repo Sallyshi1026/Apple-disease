@@ -5,6 +5,8 @@ Project Name:
 Considering the development of agriculture, apple diseases can affect the yield of apples and food security to some extent.
 This classifier is able to classify 2 different diseases(apple scab & black rot) and healthy apple based on the given pictures of apple leaves. With the results of the algorithm, we can have a clear idea on the growth of apples and take proper actions more quickly. Therefore we can predict yields and reduce losses more efficiently.
 
+
+
 The Algorithm:
 
 The algorithm works as a classification neural network, we use transfer learning to train the resnet-18 based imagenet classifier. We ran training on 7400 pictures of these 3 kinds of apple leaves and reached the acuuracy of 92% eventually. 
@@ -16,6 +18,8 @@ This is an example picture of a leaf with apple scab
 
 This image shows that the AI is 97.7% sure it has apple scab)
 ![image](https://github.com/user-attachments/assets/26d55b85-2428-4cda-838a-6333660aab73)
+
+
 
 
 Run this Project:
