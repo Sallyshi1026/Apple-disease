@@ -35,6 +35,8 @@ This image shows that the AI is 97.7% sure it has apple scab)
 
 4.The file will now appeare in /home/nvidia/jetson-inference/python/training/classification
 
+# Video
+https://drive.google.com/file/d/1h_2y91FYchTcxqe_KkGTBQEsyJpUcMtM/view?usp=sharing
 
 
 
