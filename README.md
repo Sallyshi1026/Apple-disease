@@ -9,7 +9,10 @@ This classifier is able to classify 2 different diseases(apple scab & black rot)
 
 The Algorithm:
 
-The algorithm works as a classification neural network, we use transfer learning to train the resnet-18 based imagenet classifier. We ran training on 7400 pictures of these 3 kinds of apple leaves and reached the acuuracy of 92% eventually. 
+The algorithm works as a classification neural network, we use transfer learning to train the resnet-18 based imagenet classifier. We ran training on 7400 pictures of these 3 kinds of apple leaves and reached the acuuracy of 92% eventually.
+
+dataset link: 
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 This is an example picture of a leaf with apple scab
 
