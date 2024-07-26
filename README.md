@@ -34,7 +34,7 @@ This image shows that the AI is 97.7% sure it has apple scab)
 6. To view the classification, either open the image file created, or look in the terminal for the class it was identified as
 
 # Video
-https://drive.google.com/file/d/1h_2y91FYchTcxqe_KkGTBQEsyJpUcMtM/view?usp=sharing
+[https://drive.google.com/file/d/1h_2y91FYchTcxqe_KkGTBQEsyJpUcMtM/view?usp=sharing](https://youtu.be/Z2skwTum54A)
 
 The test done in the video shows at 2:34 that the test image of an apple with black rot was correctly classified with 99.82% confidence.
 
